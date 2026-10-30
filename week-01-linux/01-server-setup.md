@@ -6,7 +6,7 @@ git init # проинициализировал директорию
 git add README.md # Добавил файл 
 git commit -m "first commit" # сделал первый коммит
 git branch -M main # перешел в ветку main
-git remote add origin https://github.com/Eisutt/devops-learning1.git # связал с репазиторием на github
+git remote add origin https://github.com/Eisutt/devops-learning.git # связал с репазиторием на github
 git push -u origin main # сделал пуш в корневую ветку на удаленный репазиторий
 
 Через vscode и расширение source control сделал коммит и пуш репазитория на сервере 
