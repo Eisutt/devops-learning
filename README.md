@@ -30,3 +30,4 @@
 
 ### Неделя 1: Linux
 - [01. Подготовка: репозиторий и сервер](week-01-linux/01-server-setup.md)
+- [02. Харднинг: sudo и SSH](week-01-linux/02-sudo-ssh-hardening.md)
