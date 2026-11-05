@@ -31,3 +31,4 @@
 ### Неделя 1: Linux
 - [01. Подготовка: репозиторий и сервер](week-01-linux/01-server-setup.md)
 - [02. Харднинг: sudo и SSH](week-01-linux/02-sudo-ssh-hardening.md)
+- [03. Харднинг: firewall (ufw) и fail2ban](week-01-linux/03-firewall-fail2ban.md)
